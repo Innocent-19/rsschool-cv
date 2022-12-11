@@ -26,10 +26,10 @@ I like IT technology. I want to learn programming, I think it's an interesting a
 Not yet...
 ***********
 ## Education
-* Courses: 
-+[HTML Academy](https://htmlacademy.ru/)-
-+Stepik courses
-+JS, CSS, HTML, Git video courses on YouTube
+Courses: 
+* [HTML Academy](https://htmlacademy.ru/)-
+* Stepik courses
+* JS, CSS, HTML, Git video courses on YouTube
 ***********
 ## Language:
-English level: A1-A2
+English level: A1-A2    
