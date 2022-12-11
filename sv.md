@@ -1,4 +1,4 @@
-## [rsschool-cv](https://github.com/Innocent-19/rsschool-cv/tree/gh-pages)
+## [rsschool-cv](https://innocent-19.github.io/rsschool-cv/cv)
 # Vladislav Usenko
 ### Contacts
 * location: Russia, Moscow
