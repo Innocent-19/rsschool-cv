@@ -1,6 +1,6 @@
-### rsschool-cv
+## rsschool-cv
 # Vladislav Usenko
-## Contacts
+### Contacts
 * location: Russia, Moscow
 * Email: innocentusenko@gmail.com
 * Github: https://github.com/Innocent-19
@@ -14,7 +14,7 @@ I like IT technology. I want to learn programming, I think it's an interesting a
 * HTML 
 * GIT 
 ***********
-## Code Example 
+### Code Example 
 ```
 <body>
 <p id="demo">JavaScript может изменять стиль HTML элемента.</p>
@@ -22,14 +22,14 @@ I like IT technology. I want to learn programming, I think it's an interesting a
 </body>
 ```
 ***********
-## Experience
+### Experience
 Not yet...
 ***********
-## Education
+### Education
 Courses: 
 * [HTML Academy](https://htmlacademy.ru/)-
-* Stepik courses
-* JS, CSS, HTML, Git video courses on YouTube
+* [Stepik courses](https://stepik.org/course/38218/promo) 
+* JS, CSS, HTML, Git video courses on YouTube 
 ***********
-## Language:
+### Language:
 English level: A1-A2    
